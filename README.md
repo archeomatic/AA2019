@@ -1,7 +1,7 @@
 ![AA19.1](http://isa.univ-tours.fr/IMG/gif/-3.gif) 
 # Création et utilisation d’une base de données relationnelle, attributaire et spatiale avec les logiciels QGIS et SQLite/Spatialite
 
-Dépôt pour les [Ateliers Archéomatiques 2019](http://isa.univ-tours.fr/spip.php?article383) des 11  et 12 Mars 2019
+Dépôt sur GitHub pour les [Ateliers Archéomatiques 2019](http://isa.univ-tours.fr/spip.php?article383) des 11  et 12 Mars 2019
 
 Présentation et jeu de données de **Julien Courtois** (Pôle d’Archéologie de la ville d’Orléans, Lat) - **Thomas Guillemard** (Inrap) - **Sylvain Badey** (Inrap, Lat) 
 
